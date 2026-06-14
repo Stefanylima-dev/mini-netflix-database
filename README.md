@@ -3,8 +3,7 @@
 Este projeto foi desenvolvido para simular o ecossistema de banco de dados relacional de uma plataforma de streaming, modelando regras de negócios reais, controle parental e extração de métricas financeiras.
 
 ## 📐 Estrutura do Banco (Modelo Lógico)
-<img width="867" height="556" alt="Captura de tela 2026-06-14 091027" src="https://github.com/user-attachments/assets/aca657d6-02fd-4207-9161-6e7ce193f37f" />
-
+<img width="867" height="556" alt="modelo_logico" src="https://github.com/user-attachments/assets/8807269e-2c7a-47d2-bb25-3fce763982d3" />
 
 ## 🛠️ Tecnologias Utilizadas
 * **Banco de Dados:** MySQL
